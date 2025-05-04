@@ -1,0 +1,265 @@
+body{  
+    
+    background: url("img/back\ fon.jpg") no-repeat;
+    background-position-x: 50%;
+    background-position-y: -265px;
+    background-size: 30030px 1350px;
+    width: 100%;
+    overflow-x: hidden;
+  
+    
+    
+}
+
+.header{
+   
+    position: relative;
+    text-align: center;
+    transform: translate(0px,-120px);
+
+}
+
+.menu{
+   
+    font-size: 30px;
+    right: 40px;
+    margin-left: 1200px;
+    justify-content: center;
+    font-weight: 800;
+    
+   
+    
+
+}
+
+.menu a{
+    margin-left:50px ;
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    
+    
+
+}
+
+.menu a:hover{
+    
+   
+    text-decoration:underline orangered ;
+    
+    
+  
+}
+.logo{
+
+    opacity: 0.4;
+    font-size: 50px;
+    transform: translate(-50px,95px);
+    margin-right: 1300px;
+    justify-content: center;
+/*-------------------container---------------------------------*/   
+}
+
+.foto {
+ text-align: center;
+ margin-right: 670px;
+transform: translate(0px,-30px);
+
+}
+
+
+
+.crypt{
+    font-weight: 600;
+
+}
+.crypt:hover{
+    font-weight: 600;
+    background-color: aqua;
+}
+.text_conteiner a {
+    color: black;
+ }
+
+ .button_1 {
+     
+     margin-left: auto; 
+     margin-right: auto; 
+     transform: translate(300px, -950px);
+     max-width: 170px;
+     padding: 20px 70px;
+     justify-content: center;
+     text-align: center;
+     display: flex;
+     background-color: rgb(255, 255, 255);
+     text-decoration: none;
+     border: 1px solid black; 
+     color: black;
+ }
+ .button_1:hover {
+     
+     margin-left: auto; 
+     margin-right: auto; 
+     transform: translate(300px, -950px);
+     max-width: 170px;
+     padding: 20px 70px;
+     justify-content: center;
+     text-align: center;
+     display: flex;
+     background-color: rgb(0, 0, 0);
+     text-decoration: none;
+     border: 1px solid rgb(255, 255, 255); 
+     color: aliceblue;
+ }
+
+
+
+ .bil {
+     transform: translate(100px, 150px);
+     font-size: 20px;
+ }
+
+ .text_conteiner {
+     margin-left: auto; 
+     position: relative;
+     margin-right: auto; 
+     transform: translate(270px, -960px);
+     max-width: 500px;
+ }
+
+ .text_conteiner p {
+     max-width: 700px; 
+     margin: 0 auto; 
+     width: 500px;
+     text-align: left;
+     line-height: 1.5;
+     font-size: 30px;
+     transform: translate(86px, -10px);
+ }
+
+ .text_conteiner h1 {
+     font-size: 80px;
+     text-align: left;
+     margin-left: 90px;
+     width: 400px;
+     line-height: 1.1;
+     
+     
+ } 
+
+ .conteiner_1{
+    color: azure;
+    padding: 30px;
+    position: static;
+   
+
+    
+    
+    
+
+    
+
+   } 
+
+   .conteiner_1 h1{
+    margin-left:auto; 
+    margin-right: auto;
+    max-width: 900px;
+    text-align: center;
+    font-size: 50px;
+    font-size: 70px;
+    width: 900px;
+   }
+
+   .conteiner_1 p{
+    margin-left:auto; 
+    margin-right: auto;
+    
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    width: 900px;
+    
+   
+
+   }
+
+   .cards_1{
+    display: flex;
+    justify-content: center;
+
+    padding: 0 600px;
+    text-align: center;
+    margin-right: -160px;
+    
+    
+   }
+   .card{
+    margin-right: 100px;
+    transform: translate(50px,1px);
+    padding: 100px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 20px;
+    width: 220px;
+    padding: 400px 150px;
+    margin: 15px;
+    transform: translate(-87px,0px);
+    height: 530px;
+
+    
+   }
+
+   .card img{
+    border: 15px solid orange;
+    border-radius: 50%;
+    transform: translate(-40px,-1240px);
+    display: flex;
+    
+   }
+
+   .card h1{
+    transform: translate(-330px,-30px);
+    font-size: 40px;
+   }
+   
+   
+   .card p{
+    transform: translate(-110px,-10px);
+    font-size: 40px;
+    width: 400px;
+    text-align: center;
+   }
+   
+   .AA{
+    transform: translate(0px,130px);
+   }
+
+   .AAA{
+    transform: translate(0px,80px);
+   }
+
+   .freepik p{
+    font-size: 40px;
+   }
+
+   .freepik a{
+    color: white;
+    margin: 10px;
+    
+   }
+   .freepik{
+    padding: 20px;
+   }
+
+
+   .back_section{
+    background-color: rgb(22, 21, 19);
+    transform: translate(-10px,-790px);
+    
+    width: 100%;
+    
+    
+   }
+   
+/*-------------------------------------*/

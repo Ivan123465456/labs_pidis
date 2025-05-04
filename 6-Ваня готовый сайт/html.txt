@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>строительства дома</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+       .conteiner_1{
+        transform: translate(0px,-743px);
+        max-width: auto;
+        width: 100%;
+        text-align: center;
+        background-color: #292d33;
+        position: absolute;
+        color: aliceblue;
+        padding: 40px;
+        
+
+        
+
+       } 
+
+       .conteiner_1 h1{
+        margin-left:auto; 
+        margin-right: auto;
+        max-width: 900px;
+        text-align: center;
+        font-size: 50px;
+        font-size: 60px;
+        width: 700px;
+       }
+
+       .conteiner_1 p{
+        margin-left:auto; 
+        margin-right: auto;
+        max-width:  auto;
+        text-align: center;
+        font-size: 30px;
+        padding: 10px;
+        width: 900px;
+       
+
+       }
+
+       .cards_1{
+        display: flex;
+        justify-content: center;
+
+        padding: 0 600px;
+        text-align: center;
+        
+        
+       }
+       .card{
+        margin-right: 100px;
+        transform: translate(50px,1px);
+        padding: 100px;
+        color: rgb(0, 0, 0);
+        background-color: white;
+        border-radius: 20px;
+        width: 220px;
+        padding: 400px 150px;
+        margin: 15px;
+        transform: translate(-30px,0px);
+        height: 530px;
+
+        
+       }
+
+       .card img{
+        border: 15px solid orange;
+        border-radius: 50%;
+        transform: translate(-40px,-1240px);
+        display: flex;
+        
+       }
+
+       .card h1{
+        transform: translate(-240px,-30px);
+        font-size: 40px;
+       }
+       
+       
+       .card p{
+        transform: translate(-110px,-10px);
+        font-size: 40px;
+        width: 400px;
+        text-align: center;
+       }
+       
+       .AA{
+        transform: translate(0px,130px);
+       }
+
+       .AAA{
+        transform: translate(0px,80px);
+       }
+
+       .freepik p{
+        font-size: 40px;
+       }
+
+       .freepik a{
+        color: white;
+        margin: 10px;
+        
+       }
+       .freepik{
+        padding: 20px;
+       }
+
+    </style>
+</head>
+<body>
+<!--header--------------------------------------------------------------------------------------->
+    <section class="header">
+        <div class="logo">
+            <p>logo</p>
+        </div>
+
+        <div class="menu">
+            <a href="#">Home</a>
+            <a href="#">Team</a>
+            <a href="#">About us</a>
+            <a href="#">Landing</a>
+        </div>
+    </section>
+<!--end header-->
+    <section class="conteiner">
+        <div class="foto"> 
+            <img src="img/min.png" height="920">
+        </div>
+
+        <div class="text_conteiner">
+            <h1>Услуги по ремонту дома</h1>
+            <p>Найдите потрясающие услуги по ремонту дома, специально подобранные для вас.</p>
+            <p>Handy свяжет вас с потрясающими профессионалами по ремонту дома.</p>
+            
+           
+           
+            <div class="bil">
+                Изображение из <a href="#">Bilionphotos</a>
+            </div>         
+        </div>
+
+        <div class="button">    
+            <a href="12.html" class="button_1">СВЯЗАТЬСЯ С НАМИ</a>
+        </div>
+        <div class="backfoto">
+         
+        </div>
+    </section>
+<section class="conteiner_1">
+    <h1>Почему стоит выбрать нашу компанию для ремонта дома?</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <div class="cards_1">
+        <div class="card"> 
+            <h1>Высокое качество</h1>
+                <p>Мы используем высококачественные материалы, профессиональные инструменты и принадлежности, а также внимание к деталям, которое не встретишь в большинстве компаний по благоустройству дома. От небольших работ до крупных, вы можете положиться на наш опыт.</p>
+            <img src="img/ЧЕЛ В КЕПКЕ.jpg" height="280">
+        </div>
+
+        <div class="card">
+                
+            <h1>Профессионализм</h1>
+            <p>Наши специалисты по ремонту — профессионалы со средним опытом работы в торговле 10 лет. При этом вы увидите, что каждый из наших специалистов по ремонту ведет себя и общается профессионально.</p>
+                <div class="AA">
+            <img src="img/ЧЕЛ В КЕПКЕ.jpg" height="280">
+        </div>
+        </div>
+        <div class="card">
+              
+            <h1>Гибкость</h1>
+            <p>Вам не обязательно платить больше, чтобы получить отличную работу. Поскольку каждый проект по ремонту дома уникален, мы создаем индивидуальный план, который соответствует конкретным потребностям и ожиданиям каждого клиента.</p>
+            
+            <div class="AAA"><img src="img/ЧЕЛ В КЕПКЕ.jpg"  height="280"></div>
+           
+        </div>
+        <div class="card">
+                
+            <h1>Вежливый</h1>
+
+            <p>Мы рассматриваем это как возможность сэкономить время, энергию и разочарование наших клиентов. Наши клиенты также ценят своевременную коммуникацию, которую мы предоставляем по их вопросам и проблемам.</p>
+            <div class="AAA"><img src="img/ЧЕЛ В КЕПКЕ.jpg" height="280"></div>
+           
+        </div>
+    </div>
+
+    <div class="freepik">
+        <p>Изображение из <a href="#">Freepik</a></p>
+    </div>  
+</section>
+
+</body>
+</html>

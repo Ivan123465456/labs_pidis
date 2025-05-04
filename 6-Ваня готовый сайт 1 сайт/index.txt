@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>строительства дома</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="img/ава_2 — копия.png">
+    
+
+    <style>
+      
+      
+    </style>
+</head>
+<body>
+<!--header--------------------------------------------------------------------------------------->
+    <section class="header">
+        <div class="logo">
+            <p>logo</p>
+        </div>
+
+        <div class="menu">
+            <a href="#">Home</a>
+            <a href="#">Team</a>
+            <a href="#">About us</a>
+            <a href="#">Landing</a>
+        </div>
+    </section>
+<!--end header-->
+    
+    <section class="conteiner">
+        <div class="foto"> 
+            <img src="img/min.png" height="920">
+        </div>
+
+        <div class="text_conteiner">
+            <h1>Услуги по ремонту дома</h1>
+            <p>Найдите потрясающие услуги по ремонту дома, специально подобранные для вас.</p>
+            <p>Handy свяжет вас с потрясающими профессионалами по ремонту дома.</p>
+            
+           
+           
+            <div class="bil">
+                Изображение из <a href="#">Bilionphotos</a>
+            </div>         
+        </div>
+
+         <div class="button_1">СВЯЗАТЬСЯ С НАМИ  
+            
+        </div>
+        <div class="backfoto">
+         
+        </div>
+    </section>
+
+
+    <div class="back_section">
+        <section class="conteiner_1">
+            <h1>Почему стоит выбрать нашу компанию для ремонта дома?</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <div class="cards_1">
+                <div class="card"> 
+                    <h1>Высокое качество</h1>
+                        <p>Мы используем высококачественные материалы, профессиональные инструменты и принадлежности, а также внимание к деталям, которое не встретишь в большинстве компаний по благоустройству дома. От небольших работ до крупных, вы можете положиться на наш опыт.</p>
+               
+                </div>
+        
+                <div class="card">
+                        
+                    <h1>Профессионализм</h1>
+                    <div class="prof">    <p>Наши специалисты по ремонту — профессионалы со средним опытом работы в торговле 10 лет. При этом вы увидите, что каждый из наших специалистов по ремонту ведет себя и общается профессионально.</p></div>
+                
+                       
+                   
+               
+                </div>
+                <div class="card">
+                      
+                    <h1>Гибкость</h1>
+                    <p>Вам не обязательно платить больше, чтобы получить отличную работу. Поскольку каждый проект по ремонту дома уникален, мы создаем индивидуальный план, который соответствует конкретным потребностям и ожиданиям каждого клиента.</p>
+                    
+              
+                   
+                </div>
+                <div class="card">
+                        
+                    <h1>Вежливый</h1>
+                    <div class="prof">  
+                    <p>Мы рассматриваем это как возможность сэкономить время, энергию и разочарование наших клиентов. Наши клиенты также ценят своевременную коммуникацию, которую мы предоставляем по их вопросам и проблемам.</p>
+                    </div>
+                   
+                </div>
+            </div>
+        
+            <div class="chel_in_kepka">
+                <img src="img/ЧЕЛ В КЕПКЕ.jpg" alt="">
+                <img src="img/rabotnik-proizvodstva-pp53rk36wt2ao9sndkm01ni7dldnx8zmqneuxhekdc.jpg" alt="">
+                <img src="img/ohrana-truda-v-ofise-1024x683.jpg" alt="">
+                <img src="img/люди.jpg" alt="">
+            </div>
+
+            <div class="freepik">
+                <p>Изображение из <a href="#">Freepik</a></p>
+            </div>  
+        </section>
+    </div>
+
+
+<!------conteiner_2-------->
+<section class="conteiner_2">
+
+<h1>Надежные, проверенные и профессиональные услуги</h1>
+<p>Duis aute irure dolor в осуждении за сладострастие velit esse cillum dolore eu fugiat nulla pariatur. </p>
+<div class="galochka">
+    <img src="img/галочка.png"  >
+    <img src="img/галочка.png"  >
+    <br>
+    <img src="img/галочка.png"  >
+    <img src="img/галочка.png"  >
+</div>
+<div class="galoch_info">
+  <div class="galoch">
+    <div class="ofis"><p>Офис</p></div>
+   <div class="gost"><p>Гостиная</p></div> 
+  
+  
+    <div class="kuhna"><p>Кухня</p></div>
+    <div class="podval"><p> Подвал</p></div>
+  </div>
+</div>
+
+<div class="famaly">
+    <img src="img/счасливая семья.png" alt="">
+</div>
+
+    <div class="freepik_1">
+        <p>Изображение из <a href="12.html">Freepik</a></p>
+    </div>
+
+</section>
+
+<!--container_3----------------------------------->
+<section class="conteiner_3">
+    <h1>Услуги по ремонту дома</h1>
+
+    <div class="btn">
+        <a href="12.html">узнать больше</a>
+    </div>
+
+<div class="table">
+    
+    <div class="table_1">
+        <hr>
+        <div class="circle"></div>
+        <div class="polosa">
+        </div>
+        <h2>Ремонт кухни</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+    </div>
+
+    <div class="table_1">
+        <hr>
+        <div class="circle"></div>
+        <div class="polosa">
+        </div>
+        <h2>Ремонт затирки</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+    </div>
+
+    <div class="table_1">
+        <hr>
+        <div class="circle"></div>
+        <div class="polosa">
+        </div>
+        <h2>Ремонт столешницы</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+    </div>
+
+<!--------------------------------------------------------------------------->
+<div class="table_2">
+    <hr>
+    <div class="circle"></div>
+    <div class="polosa">
+    </div>
+    <h2>Ремонт столешницы</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+</div>
+<div class="table_2">
+    <hr>
+    <div class="circle"></div>
+    <div class="polosa">
+    </div>
+    <h2>Ремонт ванной комнаты</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+</div>
+
+<div class="table_2">
+    <hr>
+    <div class="circle"></div>
+    <div class="polosa">
+    </div>
+    <h2>Ремонт туалета</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+</div>
+
+<div class="table_3">
+    <hr>
+    <div class="circle"></div>
+    <div class="polosa">
+    </div>
+    <h2>Ремонт раковины</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+</div>
+
+<div class="table_3">
+    <hr>
+    <div class="circle"></div>
+    <div class="polosa">
+    </div>
+    <h2>Ремонт потолочного вентилятора</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+</div>
+
+<div class="table_3">
+    <hr>
+    <div class="circle"></div>
+    <div class="polosa">
+    </div>
+    <h2>Ремонт светильников</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+
+</div>
+</div>
+</div>
+</section>
+
+
+
+<section class="container_4">
+
+    
+
+    <h1>Наши услуги</h1>
+    <div class="fon">
+    <div class="cards_2">
+        <div class="uslugi">
+            <img src="img/молоток.png" alt="">
+            <h3>Плотницкие работы</h3>
+            <p>Excepteur sint ocaecat cupidatat not proident, sunt in culpa qui officia deserunt</p>
+            <a href="12.html">более</a>
+        </div>
+
+    </div>
+
+   
+    <div class="cards_2">
+        <div class="uslugi">
+            <img src="img/ручник.png" alt="">
+            <h3>Напольное покрытие</h3>
+            <p>Excepteur sint ocaecat cupidatat not proident, sunt in culpa qui officia deserunt</p>
+            <a href="12.html">более</a>
+        </div>
+
+    </div>
+
+
+    <div class="cards_2">
+        <div class="uslugi">
+            <img src="img/кисть.png" alt="">
+            <h3>Рисование</h3>
+            <p>Excepteur sint ocaecat cupidatat not proident, sunt in culpa qui officia deserunt</p>
+            <a href="12.html">более</a>
+        </div>
+
+    </div>
+
+    
+    <div class="cards_2">
+        <div class="uslugi">
+            <img src="img/дрель.png" alt="">
+            <h3>Электромонтажные работы</h3>
+            <p>Excepteur sint ocaecat cupidatat not proident, sunt in culpa qui officia deserunt</p>
+            <a href="12.html">более</a>
+        </div>
+
+    </div>
+</div>
+
+</section>
+
+<section class="conteiner_5">
+
+    <div class="remont_uslug">
+      <h1>Ремонтные услуги для дома внутри</h1>  
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed vulputate mi sit amet mauris commodo quis imperdiet. Leo duis ut diam quam nulla porttitor.</p>
+     <div class="freepik_2">
+       <p>Изображениеиз <a href="#">freepik</a></p>
+     </div>
+     <button class="uznai">Узнай о нас </button>
+
+    <div class="people">
+     <img src="img/черная.jpg" height="1200", width="1200">
+    </div>
+
+
+    </div> 
+<!--conteiner_6--> 
+
+<section class="conteiner_6">
+    <h1>Отправьте нам сообщение</h1>
+    <div class="_table_conteiner_6">
+        <div class="table_conteiner_6">
+            <img src="img/женщина с ноутом.jpg" alt="">
+            <h2>Отправьте нам сообщение</h2>
+            <p>Напишите нам, используя простую форму, и мы ответим в течение 10 рабочих дней.</p>
+            
+            <div class="send_to_support"> <button id="send_to_support">Отправьте НАМ СООБЩЕНИЕ</button>
+            </div>
+           
+        </div>
+        <div class="table_conteiner_6">
+            <img src="img/женщина с ноутом.jpg" alt="">
+            <h2>Отправьте нам сообщение</h2>
+            <p>Напишите нам, используя простую форму, и мы ответим в течение 10 рабочих дней.</p>
+            
+            <div class="send_to_support"> <button id="send_to_support">ПОДАТЬ ЖАЛОБУ</button>
+            </div>
+           
+        </div>
+    </div>
+ 
+    <div class="info">
+        <hr>
+        <p>
+            *Звонки могут записываться для контроля качества и в целях обучения. Звонки на номера 03 будут стоить вам не дороже, чем на номера 01 или 02, тарифы могут различаться в зависимости от вашего оператора связи. Звонки на номера 03 будут частью инклюзивных минутных планов для стационарных и мобильных телефонов.</p>
+    </div>
+
+    <div class="freepik_3">
+        <p>Изображениеиз <a href="#">Freepik</a></p>
+
+
+
+</section>
+<!--"conteiner_6"-->
+
+
+        <div class="conteiner_7">
+            <h1>Профессиональные услуги</h1>
+        <p>Мы сделаем ваш дом более безопасным, чем он был до нас</p>
+
+        <div class="table_conteiner_7">
+            <div class=back_table_conteiner_7>
+                <div class="polosa_conteiner_7"><p>e</p></div>
+                    <h2>Электротехнические услуги</h2>
+                <p>Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Purus in mollis nunc sed id semper risus. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Sed libero enim sed faucibus turpis in eu mi. Ornare arcu dui vivamus arcu.</p>
+                <img src="img/стрелка.png" alt="">
+            </div>
+
+        
+                <div class=back_table_conteiner_7>
+                    <div class="polosa_conteiner_7"><p>e</p></div>
+                        <h2>Ремонтные услуги</h2>
+                    <p>Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Purus in mollis nunc sed id semper risus. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Sed libero enim sed faucibus turpis in eu mi. Ornare arcu dui vivamus arcu.</p>
+                    <div class="strelka_2"><img src="img/стрелка.png" alt=""></div>
+                </div>
+               
+                    <div class=back_table_conteiner_7>
+                        <div class="polosa_conteiner_7"><p>e</p></div>
+                            <h2>Советы и идеи</h2>
+                        <p>Feugiat nibh sed pulvinar proin gravida hendrerit lectus. Purus in mollis nunc sed id semper risus. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Sed libero enim sed faucibus turpis in eu mi. Ornare arcu dui vivamus arcu.</p>
+                        <div class="strelka_3"><img src="img/стрелка.png" alt=""></div>
+                        
+                    </div>
+
+        </div>
+       
+        </div>
+       <div class="conteiner_7_2"> 
+        <h1>Познакомьтесь с экспертами по обслуживанию вашего дома</h1>
+        <div class="freepik_4">
+        <p>erwerer <a href="#">ewrrefef</a></p>
+        
+    </div>
+    <div class="spisok">
+        <img src="img/галочки.png" height="80px">
+        <img src="img/галочки.png" height="80px">
+        <img src="img/галочки.png" height="80px">
+        <img src="img/галочки.png" height="80px">
+        <img src="img/галочки.png" height="80px">
+        <p>Аварийный ремонт</p>
+        <p>Ремонт электрики</p>
+        <p>Автоматические выключатели</p>
+        <p>Потолочные вентиляторы</p>
+        <p>Генераторы</p>
+    </div>
+
+    <div class="uznat">
+        <button id="uznat">узнать больше</button>
+    </div>
+
+    <div class="instrumant">
+        <img src="img/нструменты.jpg" alt="">
+    </div>
+    </div>
+
+        <div class="end">
+            <div class="table_end">
+                <h1>Напишите нам по электронной почте</h1>
+                <p>Напишите нам, используя простую форму, и мы ответим в течение 10 рабочих дней.</p>
+                <div class="email_1"><input type="email"  placeholder="Enter a valid email adress "></div>
+                <button class="btn_2">представлять на рассмотрение </button>
+            </div>
+
+            <div class="table_end">
+                <img src="img/сообщение.png" alt="">
+                <h1>Напишите нам по электронной почте</h1>
+                <p>Добавьте нас в WhatsApp и отправляйте запросы для мгновенного ответа.</p>
+               
+                <button class="btn_2">представлять на рассмотрение </button>
+            </div>
+
+            <div class="table_end">
+                <img src="img/сообщение_2.png" alt="">
+                <h1>Напишите нам по электронной почте</h1>
+                <p>Самый быстрый способ связаться с экспертом</p>
+              
+                <button class="btn_2">представлять на рассмотрение </button>
+            </div>
+           
+        </div>
+        
+        
+
+<!--conteiner_8-->
+<basement class="bas">
+    
+    
+    <div class="nicepage"><p>Этот сайт был создан с помощью <a href="#">Nicepage</a></p></div>
+    <div class="text_bas"><p>Sample text. Click to select the Text Element.</p></div>
+    
+</basement>
+
+<!--js------------------------------------------------------------->
+<script src="script.js"></script>
+</body>
+</html>
